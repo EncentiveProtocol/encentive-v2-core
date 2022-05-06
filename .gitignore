@@ -1,0 +1,22 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+.DS_Store
+contracts/artifacts/
+contracts/interfaces/artifacts/
+contracts/interfaces/uniswap-v2/artifacts/
+contracts/libraries/artifacts/
+.deps/
+tests/artifacts/
+.vscode/
+node_modules/
+package-lock.json
+contracts/common/artifacts/
+contracts/swap/artifacts/
+contracts/swap/libraries/artifacts/
+contracts/interfaces/swap/artifacts/
+contracts/interfaces/periphery/artifacts/
+contracts/periphery/artifacts/
+contracts/stake/artifacts/
+contracts/interfaces/stake/artifacts/
+contracts/3rdparty/ACH/artifacts/
+contracts/3rdparty/ACH/interfaces/artifacts/
+ipfs/

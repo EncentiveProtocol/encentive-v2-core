@@ -1,0 +1,11 @@
+{
+  "name": "encentive-v2",
+  "version": "2.1.2",
+  "description": "Launch a defi project in one step.",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "openzeppelin-solidity": "~4.1.0"
+  },
+  "devDependencies": {},
+  "type": "module"
+}
